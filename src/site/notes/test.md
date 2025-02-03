@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/test/","title":"test","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/test/","title":"<%title%>","tags":["gardenEntry"]}
 ---
 
 
