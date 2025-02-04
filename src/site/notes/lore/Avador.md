@@ -8,7 +8,7 @@
 
 Vor langer Zeit war Avador ein geeinter Kontinent, dessen Bewohner in Frieden lebten. Die [[lore/Götter\|Götter]] wachten über die Welt und gewährleisteten das Gleichgewicht der Naturgesetze. Doch ein Gott sollte diesen Frieden erschüttern - nicht durch Gewalt, sondern durch seine unersättliche Gier nach Macht.
 
-Sein Name lautet Zorath, Gott der Gier. Sein streben nach Macht war so groß, dass er sich von den [Göttern](Götter) abwandte und das Gleichgewicht Avadors störte. Er begann der Welt Energie zu entziehen, was das Leben auf Avador beeinträchtigte.
+Sein Name lautet Zorath, Gott der Gier. Sein streben nach Macht war so groß, dass er sich von den [Göttern] abwandte und das Gleichgewicht Avadors störte. Er begann der Welt Energie zu entziehen, was das Leben auf Avador beeinträchtigte.
 
 Die [[lore/Götter\|Götter]] bemerkten das Wanken des Gleichgewichts und kamen zu dem Schluss etwas dagegen zu tun. Sie schlossen sich zusammen und fesselten Zorath in einem mächtigen Zauber. Das Siegel ist ein riesiges kristallenes Gefängnis und entstand in der Mitte des Kontinents.
 
@@ -23,4 +23,3 @@ Diese freigesetzte Energie sorgte für eine riesige Explosion und brach den Kont
 - [[Solvandor\|Solvandor]]
 - [[Thalassara\|Thalassara]]
 - [[Mirathil\|Mirathil]]
-
