@@ -14,7 +14,7 @@ Die [[lore/Götter\|Götter]] bemerkten das Wanken des Gleichgewichts und kamen 
 
 Jahrhunderte vergingen. Das Siegel, [[Zarimor\|Zarimor]], stand als gewaltiges Monument im Zentrum Avadors, doch niemand wusste genau, was es war. Gelehrte versuchten, sein Geheimnis zu lüften, doch es widerstand allen Untersuchungen. Im Jahr 1587 begaben sich fünf außergewöhnliche Forscher zur Mitte des Kontinents, um [[Zarimor\|Zarimor]] selbst zu studieren. Sie verbrachten fast ein Jahrzehnt damit, das kristallene Gebilde zu erforschen, bis es ihnen 1595 auf unerklärliche Weise gelang, es zu brechen.
 
-Als das Siegel zerbrach, wurde eine ungeheure Welle reiner Energie freigesetzt. Diese Magie – ursprünglich die Essenz, die Zorath für sich selbst beansprucht hatte – strömte in die Welt hinaus und wurde von der Natur und den Menschen aufgenommen. Sie wird nun [[lore/Zoraths Macht\|Zoraths Macht]] genannt. Die fünf Forscher von auf direktem Weg von der Energie durchdrungen und wurden zu den [[Mächtigen Fünf\|Mächtigen Fünf]].
+Als das Siegel zerbrach, wurde eine ungeheure Welle reiner Energie freigesetzt. Diese Magie – ursprünglich die Essenz, die Zorath für sich selbst beansprucht hatte – strömte in die Welt hinaus und wurde von der Natur und den Menschen aufgenommen. Sie wird nun [[lore/Zoraths Macht\|Zoraths Macht]] genannt. Die fünf Forscher, welche direkt von der Energie durchdrungen wurden, sind nun bekannt als die [[lore/Mächtigen Fünf\|Mächtigen Fünf]].
 
 Diese freigesetzte Energie sorgte für eine riesige Explosion und brach den Kontinent in fünf Teile.
 
