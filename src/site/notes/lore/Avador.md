@@ -16,7 +16,7 @@ Jahrhunderte vergingen. Das Siegel, [[Zarimor\|Zarimor]], stand als gewaltiges M
 
 Als das Siegel zerbrach, wurde eine ungeheure Welle reiner Energie freigesetzt. Diese Magie – ursprünglich die Essenz, die Zorath für sich selbst beansprucht hatte – strömte in die Welt hinaus und wurde von der Natur und den Menschen aufgenommen. Sie wird nun [[lore/Zoraths Macht\|Zoraths Macht]] genannt. Die fünf Forscher, welche direkt von der Energie durchdrungen wurden, sind nun bekannt als die [[lore/Mächtigen Fünf\|Mächtigen Fünf]].
 
-Diese freigesetzte Energie sorgte für eine riesige Explosion und brach den Kontinent in fünf Teile.
+Diese freigesetzte Energie sorgte für eine riesige Explosion und brach den Kontinent in fünf Teile. Jeder der [[lore/Mächtigen Fünf\|Mächtigen Fünf]] bereiste einen dieser Kontinente und veränderte ihn in seinen Grundstrukturen.
 
 - [[lore/Arkanis\|Arkanis]]
 - [[Khar'Nath\|Khar'Nath]]
