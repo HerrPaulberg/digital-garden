@@ -5,4 +5,4 @@
 # Frysgard
 ---
 
-[![test](/img/user/lore/attachment/Arkanis-Frysgard.png)](../../../img/user/attachment/lore/Arkanis-Frysgard.png)
+[![test](/img/user/lore/attachment/Arkanis-Frysgard.png)](../../../img/user/lore/attachment/Arkanis-Frysgard.png)
