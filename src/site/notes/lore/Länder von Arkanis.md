@@ -17,4 +17,6 @@
 ![Arkanis-Gebiete.png](/img/user/lore/attachment/Arkanis-Gebiete.png)
 
 
-[<img src="user/attachment/Avador-Gebiete.png">](Arkanis-Gebiete.png)
+[![test](/img/user/lore/attachment/Arkanis-Gebiete.png)](Arkanis-Gebiete.png)
+
+
