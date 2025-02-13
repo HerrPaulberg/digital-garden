@@ -5,4 +5,4 @@
 # Liurnia
 ---
 
-[![test](/img/user/lore/attachment/Arkanis-Liurnia.png)](../../../img/user/attachment/Arkanis-Liurnia.png)
+[![test](/img/user/lore/attachment/Arkanis-Liurnia.png)](../../../img/user/attachment/lore/Arkanis-Liurnia.png)
