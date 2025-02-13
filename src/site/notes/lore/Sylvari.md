@@ -5,5 +5,5 @@
 # Sylvari
 ---
 
-[![test](/img/user/lore/attachment/Arkanis-Sylvari.png)](../../../img/user/attachment/Arkanis-Sylvari.png)
+[![test](/img/user/lore/attachment/Arkanis-Sylvari.png)](../../../img/user/attachment/lore/Arkanis-Sylvari.png)
 
