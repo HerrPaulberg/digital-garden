@@ -14,7 +14,7 @@
 - [[lore/Liurnia\|Liurnia]] - die Insel, auf der Raya Lucaria liegt. Es ist die Insel die sich Minerva die Allwissende von den [[lore/Mächtigen Fünf\|Mächtigen Fünf]] aussuchte, um dort die Magieschule Raya Lucaria zu bauen.
 - [[lore/Caelid\|Caelid]] - das Niemandsland. Es ist ein gesetzloses Gebiet und diente dazu, dass alle Bewohner von [[lore/Arkanis\|Arkanis]], auch in Zeiten des Krieges, sicher zu Raya Lucaria schafften. Heutzutage leben hier jedoch einige Monster, da sich hier nur selten jemand aufhält.
 
-[![test](/img/user/lore/attachment/Arkanis-Gebiete.png)](../../../img/user/attachment/lore/Arkanis-Gebiete.png)
+[![test](/img/user/lore/attachment/Arkanis-Gebiete.png)](../../../img/user/lore/attachment/Arkanis-Gebiete.png)
 
 
 
