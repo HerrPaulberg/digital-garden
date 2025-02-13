@@ -5,4 +5,4 @@
 # Lunareth
 ---
 
-[![test](/img/user/lore/attachment/Arkanis-Lunareth.png)](../../../img/user/attachment/lore/Arkanis-Lunareth.png)
+[![test](/img/user/lore/attachment/Arkanis-Lunareth.png)](../../../img/user/lore/attachment/Arkanis-Lunareth.png)
