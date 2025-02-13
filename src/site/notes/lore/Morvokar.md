@@ -5,4 +5,4 @@
 # Morvokar
 ---
 
-[![test](/img/user/lore/attachment/Arkanis-Morvokar.png)](../../../img/user/attachment/lore/Arkanis-Morvokar.png)
+[![test](/img/user/lore/attachment/Arkanis-Morvokar.png)](../../../img/user/lore/attachment/Arkanis-Morvokar.png)
