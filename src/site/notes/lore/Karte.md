@@ -4,4 +4,4 @@
 
 # Karte
 ---
-<iframe src="https://herrpaulberg.github.io/karte/" width="100%" height="1440px"></iframe>
+<iframe src="https://herrpaulberg.github.io/karte/" width="100%" height="550px"></iframe>
