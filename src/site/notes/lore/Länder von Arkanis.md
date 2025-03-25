@@ -14,7 +14,7 @@
 - Vargothan - das Land der [[lore/Tieflinge\|Tieflinge]] und Unerwünschte. Es ist das zweitgrößte Land von [[lore/Arkanis\|Arkanis]] und beherbergt all diejenigen, die sich von den Menschen nicht akzeptiert fühlen. 
 - Frysgard - das Land der Verbannten. In [[Frysgard\|Frysgard]] leben alle, die verbannt wurden oder verfolgt werden. Die Landschaft ist erbarmungslos, was das Leben dort erschwert.
 - Liurnia - die Insel, auf der Raya Lucaria liegt. Es ist die Insel die sich Minerva die Allwissende von den [[lore/Mächtigen Fünf\|Mächtigen Fünf]] aussuchte, um dort die Magieschule Raya Lucaria zu bauen.
-- Caelid - das Niemandsland. Es ist ein gesetzloses Gebiet und diente dazu, dass alle Bewohner von [[lore/Arkanis\|Arkanis]], auch in Zeiten des Krieges, sicher zu Raya Lucaria schafften. Heutzutage leben hier jedoch einige Monster, da sich hier nur selten jemand aufhält.
+- Caelid - das Niemandsland. Es ist ein gesetzloses Gebiet und diente dazu, dass alle Bewohner von [[lore/Arkanis\|Arkanis]] sicher zu Raya Lucaria schafften. Heutzutage leben hier jedoch einige Monster, da sich hier nur selten jemand aufhält.
 
 [![test](/img/user/lore/attachment/Arkanis-Gebiete.png)](../../../img/user/lore/attachment/Arkanis-Gebiete.png)
 
